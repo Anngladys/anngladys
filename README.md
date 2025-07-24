@@ -53,7 +53,7 @@ Whether it's a journal, an app, or a platform — I ensure it's emotionally reso
 
 ## 📬 Let's Connect
 
-📧 Email: your.email@example.com  
+📧 Email: anngladys@amazinglifehouse.com  
 🔗 [amazinglifehouse.com](https://amazinglifehouse.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/anngladys-gichuhi/)  
 🔗 [GitHub Projects](https://github.com/anngladys)
