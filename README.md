@@ -7,6 +7,11 @@ With a love for meaningful design and no-code tools, I turn everyday problems in
 
 ## 🧩 Featured Projects
 
+
+### 🧠 [Think Again Journal](https://thinkagainjournal.netlify.app)  
+A guided journaling app that helps users pause, reflect, and challenge spiraling thoughts.  
+Built as a secure, mobile-friendly PWA for emotional clarity and intentional thinking.
+
 ### 🌱 [Amazing Life House](https://amazinglifehouse.com)
 An online platform for spiritual growth, personal development, and meaningful living.
 
